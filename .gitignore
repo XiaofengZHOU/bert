@@ -8,6 +8,7 @@ __pycache__/
 models/*
 test_bert/*
 tmp/*
+.vscode/*
 
 # C extensions
 *.so
