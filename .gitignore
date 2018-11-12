@@ -5,6 +5,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+models/*
+test_bert/*
+tmp/*
+
 # C extensions
 *.so
 
